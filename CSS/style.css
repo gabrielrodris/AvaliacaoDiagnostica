@@ -29,13 +29,16 @@
   bottom: 0px;
 }
 
+
+
 .jump {
   animation: jump 500ms ease-out;
 }
 
 .clouds{
     position: absolute;
-    width: 550px;
+    width: 500px;
+   
     animation: clouds-animation 10s infinite linear;
 }
 
